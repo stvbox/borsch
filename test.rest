@@ -1,0 +1,26 @@
+
+
+GET http://localhost:8888/get-borsch
+Content-Type: application/json UTF-8
+
+###
+
+GET http://localhost:8889/get-borsch
+Content-Type: application/json UTF-8
+
+###
+
+GET http://localhost:8081/cook-borscht
+Content-Type: application/json UTF-8
+
+###
+
+GET http://localhost:8082/get-vegetables
+Content-Type: application/json UTF-8
+
+###
+
+GET http://localhost:8083/get-pot
+Content-Type: application/json UTF-8
+
+###
